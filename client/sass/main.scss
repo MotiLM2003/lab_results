@@ -1,0 +1,30 @@
+@import './abstracts/variables';
+@import './base/base';
+
+@import './abstracts/mixins';
+@import './abstracts/functions';
+
+@import './components/input';
+@import './components/button';
+@import './components/divider';
+@import './components/FormModel';
+@import './components/Loader';
+@import './components/progressbar';
+@import './components/language-tag';
+@import './components/avatar';
+@import './components/language-badge';
+@import './components/card';
+@import './components/page-header';
+@import './components/accordion';
+
+@import './layout/content';
+
+@import './pages/header';
+@import './pages/headers_bp';
+@import './pages/footer';
+@import './pages/details';
+@import './pages/HomePage';
+@import './pages/faqs';
+@import './pages/contact';
+@import './pages/_404.scss';
+@import './pages/career';
